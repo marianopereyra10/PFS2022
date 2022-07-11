@@ -1,0 +1,2 @@
+
+let arregloMes : string [] = "Enero"
