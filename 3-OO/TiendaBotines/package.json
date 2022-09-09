@@ -1,0 +1,14 @@
+{
+  "name": "tiendabotines",
+  "version": "1.0.0",
+  "description": "Tienda de Botines",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"cls && tsc index.ts && node index.js\""
+  },
+  "keywords": [
+    "Botines"
+  ],
+  "author": "MMP",
+  "license": "ISC"
+}

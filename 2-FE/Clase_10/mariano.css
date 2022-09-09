@@ -1,0 +1,25 @@
+body {
+    background-image: url(madera.png);
+}
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    color:rgb(105, 10, 10);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+ol {
+    color: whitesmoke;
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    color: rgb(187, 175, 199);
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
